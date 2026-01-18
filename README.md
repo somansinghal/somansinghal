@@ -128,6 +128,7 @@ Python-based virtual assistant for macOS that automates system-level tasks and i
 - 🐙 GitHub: https://github.com/somansinghal
 - 📧 Email: somansinghal06@gmail.com
 - 📸 Instagram: https://www.instagram.com/_somansinghal
+- 🧑🏼‍💻 Portfolio: https://soman-singhal.netlify.app
 
 ---
 
