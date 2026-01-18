@@ -15,6 +15,10 @@
   <img src="https://img.shields.io/badge/AI-Computer%20Vision-green">
   <img src="https://img.shields.io/badge/Cybersecurity-Foundations-red">
   <img src="https://img.shields.io/badge/Status-Student-orange">
+  <img src="https://api.netlify.com/api/v1/badges/13876b85-6c56-4b63-ba3d-2865d2d55e40/deploy-status" alt="Netlify Status" />
+  <img src="https://komarev.com/ghpvc/?username=somansinghal&label=Profile%20Views&color=38BDF8&style=flat" alt="visitor counter"/>
+</p>
+
 </p>
 
 ---
@@ -35,32 +39,29 @@ Motivated computer science student seeking **software development / Python / AI 
 
 ---
 
-## 🧠 Core Skills (Internship-Ready)
+## 🧠 Core Skills 
 
-### 💻 Programming
-- Python
-- C / C++
-- SQL
+## 🛠️ Tech Stack
 
-### 🤖 AI & Computer Vision
-- Object Detection  
-- Vehicle Detection  
-- Image & video processing  
-- OpenCV fundamentals  
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### 🌐 Web & Backend Basics
-- HTML, CSS, JavaScript  
-- Backend logic & data handling  
+### 🌐 Web Development
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🔐 Cybersecurity Foundations
-- Ethical hacking concepts  
-- Web security basics  
-- Secure coding practices  
+### 🤖 AI / ML / Computer Vision
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-FF5733?style=for-the-badge)
 
-### 🛠️ Tools & Platforms
-- Git & GitHub  
-- Linux  
-- VS Code  
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
@@ -134,3 +135,8 @@ Python-based virtual assistant for macOS that automates system-level tasks and i
 
 ⭐ Thank you for visiting my profile!  
 I’m eager to learn, contribute, and grow through internship opportunities.
+---
+
+
+
+
