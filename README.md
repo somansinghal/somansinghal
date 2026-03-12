@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋 I'm Soman Singhal</h1>
 <h3 align="center">Cybersecurity Developer • Python Automation • AI Builder</h3>
 
@@ -19,7 +17,7 @@
 * 🐍 Python developer creating **automation & AI assistants**
 * 🌐 Building **modern SaaS web apps**
 * 🧠 Exploring **AI and Computer Vision**
-* 🚀 Currently doing a **15-Day Development Challenge**
+* 🚀 Currently doing a **15 Day Development Challenge**
 
 ---
 
@@ -39,7 +37,7 @@
 
 ### 🛡️ PhishSentinel
 
-AI-powered phishing detection platform
+AI powered phishing detection platform
 
 🔗 https://phish-sentinel-ai9b57.vercel.app
 💻 https://github.com/somansinghal/PhishSentinel
@@ -63,7 +61,7 @@ All-in-one cybersecurity toolkit
 
 ### 📂 FileSentinel
 
-Malware file detection system
+Malware file analyzer
 
 🔗 https://file-sentinel.vercel.app
 💻 https://github.com/somansinghal/FileSentinel
@@ -74,7 +72,7 @@ Malware file detection system
 
 ### 🧠 Mac Assistant
 
-Python voice assistant for macOS automation
+Python voice assistant
 
 💻 https://github.com/somansinghal
 
@@ -86,7 +84,7 @@ Python voice assistant for macOS automation
 
 ### 👁️ Computer Vision Projects
 
-AI vision experiments and image processing
+AI & image processing experiments
 
 💻 https://github.com/somansinghal
 
@@ -96,7 +94,7 @@ AI vision experiments and image processing
 
 ### 👕 VastraAI
 
-AI powered ecommerce clothing platform
+AI clothing ecommerce platform
 
 🔗 https://vastra-ai-three.vercel.app
 💻 https://github.com/somansinghal/VastraAI
@@ -123,7 +121,7 @@ AI powered ecommerce clothing platform
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=netify&logoColor=white"/>
 </a>
 
-<a href="mailto:somansinghakl06@gmail.com">
+<a href="mailto:somansinghal06@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -198,6 +196,4 @@ AI powered ecommerce clothing platform
 ---
 
 ⭐ If you like my work, consider **starring my repositories**.
-
-
 
