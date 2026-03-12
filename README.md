@@ -176,7 +176,7 @@ AI clothing ecommerce platform
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/somansinghal/somansinghal/output/snake.svg">
+<img src="https://raw.githubusercontent.com/somansinghal/somansinghal/output/snake-dark.svg">
 </p>
 
 ---
