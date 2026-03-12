@@ -1,0 +1,30 @@
+name: Generate Contribution Animations
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Snake + Pacman
+        uses: Platane/snk@v3
+        with:
+          github_user_name: somansinghal
+          outputs: |
+            dist/snake.svg
+            dist/pacman-contribution-graph.svg
+
+      - name: Push animations
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: output
+          folder: dist
