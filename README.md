@@ -105,7 +105,7 @@ AI clothing ecommerce platform
 
 ---
 
-# # 🚀 Latest Projects
+#  🚀 Latest Projects
 
 <!-- repos:START -->
 <!-- repos:END -->
