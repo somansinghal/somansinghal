@@ -1,0 +1,17 @@
+name: Update Latest Repos
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://github.com/somansinghal.atom"
