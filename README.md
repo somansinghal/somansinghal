@@ -108,6 +108,11 @@ AI clothing ecommerce platform
 #  🚀 Latest Projects
 
 <!-- repos:START -->
+- [somansinghal pushed somansinghal](https://github.com/somansinghal/somansinghal/compare/e2e820a3e8...1e5c7f7cb9)
+- [somansinghal pushed somansinghal](https://github.com/somansinghal/somansinghal/compare/c2a0b305a4...e2e820a3e8)
+- [somansinghal pushed somansinghal](https://github.com/somansinghal/somansinghal/compare/4ebd82fafa...c2a0b305a4)
+- [somansinghal pushed somansinghal](https://github.com/somansinghal/somansinghal/compare/30efca5e0d...4ebd82fafa)
+- [somansinghal pushed somansinghal](https://github.com/somansinghal/somansinghal/compare/6bbfaee9cd...30efca5e0d)
 <!-- repos:END -->
 
 ---
