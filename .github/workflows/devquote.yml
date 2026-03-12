@@ -1,0 +1,15 @@
+name: Dev Quote
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  quote:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: PiyushSuthar/github-readme-quotes@master
