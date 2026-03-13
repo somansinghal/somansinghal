@@ -13,14 +13,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Pacman Contribution Graph
+      - uses: actions/checkout@v4
+
+      - name: Generate pacman contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: somansinghal
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Deploy Pacman Animation
+      - name: Deploy to output branch
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: output
-          folder: dist
+          folder: .
