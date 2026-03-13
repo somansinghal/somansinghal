@@ -1,12 +1,22 @@
-<h1 align="center">Hi 👋 I'm Soman Singhal</h1>
-<h3 align="center">Cybersecurity Developer • Python Automation • AI Builder</h3>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=5000&pause=800&color=00F7FF&center=true&vCenter=true&width=950&lines=🛡️+PhishSentinel+-+AI+Phishing+Detection+Platform;🔐+CyberGuard+-+Cybersecurity+Toolkit;📂+FileSentinel+-+Malware+File+Analyzer;🧠+Mac+Assistant+-+Python+AI+Assistant;👁️+Computer+Vision+Projects;👕+VastraAI+-+AI+Ecommerce+Platform;⚡+SnapQR+-+QR+Code+SaaS+Tool;🚀+Building+Security+Tools+Every+Day" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Soman%20Singhal&fontSize=70&color=0:00F7FF,100:6C63FF&stroke=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Developer;Python+Automation+Builder;AI+%26+Computer+Vision+Projects;Building+Security+Tools"/>
+</p>
+
+
+
+
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header"/>
+</p>
+
+<h2 align="center">🚀 Rotating Projects</h2>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=4000&color=00F7FF&center=true&vCenter=true&width=800&lines=PhishSentinel+-+AI+Phishing+Detection;CyberGuard+-+Security+Toolkit;FileSentinel+-+Malware+Analyzer;VastraAI+-+AI+Clothing+Ecommerce;SnapQR+-+QR+Code+Generator"/>
 </p>
 
 ---
@@ -20,6 +30,7 @@
 * 🚀 Currently doing a **15 Day Development Challenge**
 
 ---
+
 
 # ⚒️ Tech Stack
 
@@ -104,6 +115,28 @@ AI clothing ecommerce platform
 </table>
 
 ---
+## 🚀 Featured Repositories
+
+<p align="center">
+
+<a href="https://github.com/somansinghal/PhishSentinel">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=somansinghal&repo=PhishSentinel&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/somansinghal/CyberGuard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=somansinghal&repo=CyberGuard&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/somansinghal/FileSentinel">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=somansinghal&repo=FileSentinel&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/somansinghal/VastraAI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=somansinghal&repo=VastraAI&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
+
 
 #  🚀 Latest Projects
 
@@ -145,17 +178,16 @@ AI clothing ecommerce platform
 
 ---
 
-# 📊 GitHub Stats
+
+
+<h2 align="center">⚡ Cyberpunk Developer Dashboard</h2>
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=somansinghal&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somansinghal&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=somansinghal&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+
 
 # 📈 GitHub Activity Graph
 
@@ -167,11 +199,12 @@ AI clothing ecommerce platform
 
 # 🎮 Pacman Contribution Animation
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/somansinghal/somansinghal/output/pacman-contribution-graph.svg">
-</p>
 
----
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/somansinghal/somansinghal/output/dist/pacman-contribution-graph-dark.svg">
+</p>
 
 # 🐍 Contribution Snake
 
