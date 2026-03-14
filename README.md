@@ -141,11 +141,11 @@ AI clothing ecommerce platform
 #  🚀 Latest Projects
 
 <!-- repos:START -->
-- [somansinghal pushed somansinghal](https://github.com/somansinghal/somansinghal/compare/0789172d81...887a738a99)
-- [somansinghal pushed somansinghal](https://github.com/somansinghal/somansinghal/compare/765784a5df...0789172d81)
-- [somansinghal pushed somansinghal](https://github.com/somansinghal/somansinghal/compare/e2e820a3e8...1e5c7f7cb9)
-- [somansinghal pushed somansinghal](https://github.com/somansinghal/somansinghal/compare/c2a0b305a4...e2e820a3e8)
-- [somansinghal pushed somansinghal](https://github.com/somansinghal/somansinghal/compare/4ebd82fafa...c2a0b305a4)
+- [somansinghal pushed somansinghal](https://github.com/somansinghal/somansinghal/compare/faec4b8129...836842d124)
+- [somansinghal pushed somansinghal](https://github.com/somansinghal/somansinghal/compare/5a978adb1c...faec4b8129)
+- [somansinghal pushed somansinghal](https://github.com/somansinghal/somansinghal/compare/5e01a0643e...5a978adb1c)
+- [somansinghal pushed somansinghal](https://github.com/somansinghal/somansinghal/compare/647624be8d...5e01a0643e)
+- [somansinghal pushed somansinghal](https://github.com/somansinghal/somansinghal/compare/8f45965a2b...647624be8d)
 <!-- repos:END -->
 
 ---
