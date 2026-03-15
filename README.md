@@ -141,11 +141,11 @@ AI clothing ecommerce platform
 #  🚀 Latest Projects
 
 <!-- repos:START -->
-- [somansinghal pushed somansinghal](https://github.com/somansinghal/somansinghal/compare/faec4b8129...836842d124)
-- [somansinghal pushed somansinghal](https://github.com/somansinghal/somansinghal/compare/5a978adb1c...faec4b8129)
-- [somansinghal pushed somansinghal](https://github.com/somansinghal/somansinghal/compare/5e01a0643e...5a978adb1c)
-- [somansinghal pushed somansinghal](https://github.com/somansinghal/somansinghal/compare/647624be8d...5e01a0643e)
-- [somansinghal pushed somansinghal](https://github.com/somansinghal/somansinghal/compare/8f45965a2b...647624be8d)
+- [somansinghal pushed PhishSentinel](https://github.com/somansinghal/PhishSentinel/compare/2af9f37f4d...ad4aeef3fd)
+- [somansinghal pushed FileSentinel](https://github.com/somansinghal/FileSentinel/compare/fd4960702b...ebe717fc51)
+- [somansinghal pushed PhishSentinel](https://github.com/somansinghal/PhishSentinel/compare/ab04c5613e...2af9f37f4d)
+- [somansinghal pushed PhishSentinel](https://github.com/somansinghal/PhishSentinel/compare/0684274a89...ab04c5613e)
+- [somansinghal pushed PhishSentinel](https://github.com/somansinghal/PhishSentinel/compare/2fc91dc141...0684274a89)
 <!-- repos:END -->
 
 ---
