@@ -141,11 +141,11 @@ AI clothing ecommerce platform
 #  🚀 Latest Projects
 
 <!-- repos:START -->
+- [somansinghal pushed Smart-EGC](https://github.com/somansinghal/Smart-EGC/compare/f11f88110e...6007483bc4)
+- [somansinghal pushed Smart-EGC](https://github.com/somansinghal/Smart-EGC/compare/7e9eeb71cf...f11f88110e)
 - [somansinghal created a branch](https://github.com/somansinghal/Smart-EGC/compare/0000000000...7e9eeb71cf)
 - [somansinghal pushed PhishSentinel](https://github.com/somansinghal/PhishSentinel/compare/ad4aeef3fd...0693571644)
 - [somansinghal pushed PhishSentinel](https://github.com/somansinghal/PhishSentinel/compare/2af9f37f4d...ad4aeef3fd)
-- [somansinghal pushed FileSentinel](https://github.com/somansinghal/FileSentinel/compare/fd4960702b...ebe717fc51)
-- [somansinghal pushed PhishSentinel](https://github.com/somansinghal/PhishSentinel/compare/ab04c5613e...2af9f37f4d)
 <!-- repos:END -->
 
 ---
