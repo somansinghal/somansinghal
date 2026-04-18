@@ -141,11 +141,11 @@ AI clothing ecommerce platform
 #  🚀 Latest Projects
 
 <!-- repos:START -->
+- [somansinghal starred MoncyDev/Portfolio-Website](https://github.com/MoncyDev/Portfolio-Website)
+- [somansinghal starred ElMehdiBekkous/MyPortfolio](https://github.com/ElMehdiBekkous/MyPortfolio)
 - [somansinghal starred openclaw/openclaw](https://github.com/openclaw/openclaw)
 - [somansinghal starred GetBindu/Bindu](https://github.com/GetBindu/Bindu)
 - [somansinghal created a branch](https://github.com/somansinghal/deloitte-data-conversion/compare/0000000000...6548921234)
-- [somansinghal pushed somansinghal](https://github.com/somansinghal/somansinghal/compare/6e21ba45de...adae75b713)
-- [somansinghal pushed Smart-EGC](https://github.com/somansinghal/Smart-EGC/compare/f11f88110e...6007483bc4)
 <!-- repos:END -->
 
 ---
