@@ -145,7 +145,6 @@ AI clothing ecommerce platform
 - [somansinghal starred ElMehdiBekkous/MyPortfolio](https://github.com/ElMehdiBekkous/MyPortfolio)
 - [somansinghal starred openclaw/openclaw](https://github.com/openclaw/openclaw)
 - [somansinghal starred GetBindu/Bindu](https://github.com/GetBindu/Bindu)
-- [somansinghal created a branch](https://github.com/somansinghal/deloitte-data-conversion/compare/0000000000...6548921234)
 <!-- repos:END -->
 
 ---
