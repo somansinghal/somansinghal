@@ -141,6 +141,7 @@ AI clothing ecommerce platform
 #  🚀 Latest Projects
 
 <!-- repos:START -->
+- [somansinghal deleted](https://github.com/somansinghal/somansinghal/compare/b93e15a6f1...0000000000)
 - [somansinghal starred MoncyDev/Portfolio-Website](https://github.com/MoncyDev/Portfolio-Website)
 - [somansinghal starred ElMehdiBekkous/MyPortfolio](https://github.com/ElMehdiBekkous/MyPortfolio)
 - [somansinghal starred openclaw/openclaw](https://github.com/openclaw/openclaw)
