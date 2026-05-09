@@ -141,11 +141,11 @@ AI clothing ecommerce platform
 #  🚀 Latest Projects
 
 <!-- repos:START -->
+- [somansinghal pushed omnitrace](https://github.com/somansinghal/omnitrace/compare/1554820f45...6028290ffb)
+- [somansinghal pushed omnitrace](https://github.com/somansinghal/omnitrace/compare/c2242f7a80...1554820f45)
+- [somansinghal pushed omnitrace](https://github.com/somansinghal/omnitrace/compare/215324333a...c2242f7a80)
+- [somansinghal created a branch](https://github.com/somansinghal/omnitrace/compare/0000000000...215324333a)
 - [somansinghal starred 1jehuang/jcode](https://github.com/1jehuang/jcode)
-- [somansinghal created a branch](https://github.com/somansinghal/skills-introduction-to-github/compare/0000000000...f8019d67f3)
-- [somansinghal deleted](https://github.com/somansinghal/somansinghal/compare/b93e15a6f1...0000000000)
-- [somansinghal starred MoncyDev/Portfolio-Website](https://github.com/MoncyDev/Portfolio-Website)
-- [somansinghal starred ElMehdiBekkous/MyPortfolio](https://github.com/ElMehdiBekkous/MyPortfolio)
 <!-- repos:END -->
 
 ---
