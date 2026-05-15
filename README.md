@@ -141,11 +141,11 @@ AI clothing ecommerce platform
 #  🚀 Latest Projects
 
 <!-- repos:START -->
-- [somansinghal pushed omnitrace](https://github.com/somansinghal/omnitrace/compare/1554820f45...6028290ffb)
-- [somansinghal pushed omnitrace](https://github.com/somansinghal/omnitrace/compare/c2242f7a80...1554820f45)
-- [somansinghal pushed omnitrace](https://github.com/somansinghal/omnitrace/compare/215324333a...c2242f7a80)
-- [somansinghal created a branch](https://github.com/somansinghal/omnitrace/compare/0000000000...215324333a)
-- [somansinghal starred 1jehuang/jcode](https://github.com/1jehuang/jcode)
+- [somansinghal starred somansinghal/Mac-assistant](https://github.com/somansinghal/Mac-assistant)
+- [somansinghal starred lemony-ai/cascadeflow](https://github.com/lemony-ai/cascadeflow)
+- [somansinghal starred ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)
+- [somansinghal forked somansinghal/xtrace-sdk from XTraceAI/xtrace-sdk](https://github.com/somansinghal/xtrace-sdk)
+- [somansinghal starred XTraceAI/xtrace-sdk](https://github.com/XTraceAI/xtrace-sdk)
 <!-- repos:END -->
 
 ---
