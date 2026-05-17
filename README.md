@@ -141,11 +141,11 @@ AI clothing ecommerce platform
 #  🚀 Latest Projects
 
 <!-- repos:START -->
+- [somansinghal starred vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
 - [somansinghal starred somansinghal/Mac-assistant](https://github.com/somansinghal/Mac-assistant)
 - [somansinghal starred lemony-ai/cascadeflow](https://github.com/lemony-ai/cascadeflow)
 - [somansinghal starred ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)
 - [somansinghal forked somansinghal/xtrace-sdk from XTraceAI/xtrace-sdk](https://github.com/somansinghal/xtrace-sdk)
-- [somansinghal starred XTraceAI/xtrace-sdk](https://github.com/XTraceAI/xtrace-sdk)
 <!-- repos:END -->
 
 ---
