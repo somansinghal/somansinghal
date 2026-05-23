@@ -141,11 +141,11 @@ AI clothing ecommerce platform
 #  🚀 Latest Projects
 
 <!-- repos:START -->
+- [somansinghal pushed ot](https://github.com/somansinghal/ot/compare/312dac2b53...5465816822)
+- [somansinghal created a branch](https://github.com/somansinghal/ot/compare/0000000000...312dac2b53)
 - [somansinghal starred withcoral/coral](https://github.com/withcoral/coral)
 - [somansinghal starred vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
 - [somansinghal starred somansinghal/Mac-assistant](https://github.com/somansinghal/Mac-assistant)
-- [somansinghal starred lemony-ai/cascadeflow](https://github.com/lemony-ai/cascadeflow)
-- [somansinghal starred ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)
 <!-- repos:END -->
 
 ---
