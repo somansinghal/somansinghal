@@ -141,11 +141,11 @@ AI clothing ecommerce platform
 #  🚀 Latest Projects
 
 <!-- repos:START -->
+- [somansinghal pushed omnitrace_india](https://github.com/somansinghal/omnitrace_india/compare/bf265df095...e7a461b8ba)
+- [somansinghal created a branch](https://github.com/somansinghal/omnitrace_india/compare/0000000000...bf265df095)
 - [somansinghal created a branch](https://github.com/somansinghal/CodewithSoman/compare/0000000000...824ccc69d6)
 - [somansinghal pushed ot](https://github.com/somansinghal/ot/compare/312dac2b53...5465816822)
 - [somansinghal created a branch](https://github.com/somansinghal/ot/compare/0000000000...312dac2b53)
-- [somansinghal starred withcoral/coral](https://github.com/withcoral/coral)
-- [somansinghal starred vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
 <!-- repos:END -->
 
 ---
