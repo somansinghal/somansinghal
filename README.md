@@ -141,11 +141,11 @@ AI clothing ecommerce platform
 #  🚀 Latest Projects
 
 <!-- repos:START -->
-- [somansinghal pushed omnitrace_india](https://github.com/somansinghal/omnitrace_india/compare/bf265df095...e7a461b8ba)
-- [somansinghal created a branch](https://github.com/somansinghal/omnitrace_india/compare/0000000000...bf265df095)
-- [somansinghal created a branch](https://github.com/somansinghal/CodewithSoman/compare/0000000000...824ccc69d6)
-- [somansinghal pushed ot](https://github.com/somansinghal/ot/compare/312dac2b53...5465816822)
-- [somansinghal created a branch](https://github.com/somansinghal/ot/compare/0000000000...312dac2b53)
+- [somansinghal pushed CarbonWise-AI-](https://github.com/somansinghal/CarbonWise-AI-/compare/f22c29bcf2...1a9b847b5e)
+- [somansinghal pushed CarbonWise-AI-](https://github.com/somansinghal/CarbonWise-AI-/compare/92ce459c7c...f22c29bcf2)
+- [somansinghal pushed CarbonWise-AI-](https://github.com/somansinghal/CarbonWise-AI-/compare/5367dcafc2...92ce459c7c)
+- [somansinghal pushed CarbonWise-AI-](https://github.com/somansinghal/CarbonWise-AI-/compare/2bed84432b...5367dcafc2)
+- [somansinghal pushed CarbonWise-AI-](https://github.com/somansinghal/CarbonWise-AI-/compare/acb3fde666...2bed84432b)
 <!-- repos:END -->
 
 ---
