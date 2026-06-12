@@ -502,7 +502,7 @@ Focus Areas
 <img src="https://raw.githubusercontent.com/somansinghal/somansinghal/output/snake-dark.svg" />
 
 </div>
----
+
 
 ## 🎯 Current Focus
 
