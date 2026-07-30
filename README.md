@@ -74,17 +74,6 @@ I enjoy transforming ideas into production-ready solutions through clean archite
 * Cloud Computing
 * Full Stack Development
 --- 
-## 🚀 Featured Projects
-
-- 🌱 CarbonWise AI
-- 🔍 OmniTrace AI
-- 🛡️ PhishSentinel
-- 🔒 FileSentinel
-- 🚗 Vehicle Detection System
-- 👁️ Object Detection System
-- 🏪 Electronic Shop Management System
-- 🔍 OmniTrace AI
---- 
 
 
 ## 🛠️ Tech Stack
